@@ -21,8 +21,8 @@ const postSchema = new Schema(
       required: true,
     },
     username: {
-      type: String,
-      required: true,
+      type: mongooose.Types.ObjectId,
+      ref: "User",
     },
   },
   { timestamps: true }
