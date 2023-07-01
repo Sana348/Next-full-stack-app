@@ -37,7 +37,7 @@
   width: 300px;
   padding: 20px;
   cursor: pointer;
-  background-color: #53c28b;
+  background-color: #0a4871;
   border: none;
   border-radius: 5px;
   color: #eee;
@@ -45,7 +45,7 @@
 }
 
 .button:hover {
-  background-color: #49b07d;
+  background-color: #0a4871;
 }
 
 .or {
@@ -62,7 +62,7 @@
 }
 
 .google {
-  background-color: rgba(228, 97, 50, 0.72);
+  background-color: rgba(192, 76, 34, 0.72);
 }
 
 .google:hover {

@@ -5,8 +5,8 @@ import Image from "next/image";
 import { items } from "./data.js";
 import { notFound } from "next/navigation";
 
-const getData = (cat) => {
-  const data = items[cat];
+const getData = (pic) => {
+  const data = items[pic];
 
   if (data) {
     return data;

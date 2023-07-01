@@ -4,18 +4,18 @@ import Image from "next/image";
 import Button from "@/components/Button/Button";
 
 export const metadata = {
-  title: "Lama Dev Contact Information",
-  description: "This is Contact Page",
+  title: "WebWave Contact Information",
+  description: "Contact Page",
 };
 
 const Contact = () => {
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Let's Keep in Touch</h1>
+      <h1 className={styles.title}>Keep in Touch</h1>
       <div className={styles.content}>
         <div className={styles.imgContainer}>
           <Image
-            src="/contact.png"
+            src="/connect.png"
             alt=""
             fill={true}
             className={styles.image}

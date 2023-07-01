@@ -8,13 +8,12 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.item}>
         <h1 className={styles.title}>
-          Better design for your digital products.
+        Transforming Digital Dreams into Reality
         </h1>
         <p className={styles.desc}>
-          Turning your Idea into Reality. We bring together the teams from the
-          global tech industry.
+        we strive to provide you with the best design services for your digital products. Our team of skilled designers is passionate about turning your ideas into reality. Through collaboration, we aim to create a design that meets your needs, while also exceeding your expectations
         </p>
-        <Button url="/portfolio" text="See Our Works"/>
+        <Button url="/portfolio" text="Our Works"/>
       </div>
       <div className={styles.item}>
         <Image src={Hero} alt="" className={styles.img} />

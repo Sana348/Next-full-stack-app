@@ -1,71 +1,73 @@
 export const items = {
   applications: [
-    {
+     {
       id: 1,
-      title: "Creative Portfolio",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Fueling Productivity",
+      desc: " Showcasing an application that helps individuals and teams stay organized and increase efficiency.",
       image:
-        "https://images.pexels.com/photos/3130810/pexels-photo-3130810.jpeg",
+        "/productivity.jpg",
     },
     {
       id: 2,
-      title: "Minimal Single Product",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Enhancing Travel Experiences:",
+      desc: "Highlighting an application that assists users in planning and executing their dream vacations.",
       image:
-        "https://images.pexels.com/photos/2103127/pexels-photo-2103127.jpeg",
+        "/enhance.jpg",
     },
     {
       id: 3,
-      title: "Strong Together Charity",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Revolutionizing",
+      desc: "Discussing an application that simplifies the process of booking medical appointments and managing healthcare records.",
       image:
-        "https://images.pexels.com/photos/2916450/pexels-photo-2916450.jpeg",
+        "/revolution.jpg",
     }
+    
   ],
   illustrations: [
     {
       id: 1,
-      title: "Creative Portfolio",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Nature's Beauty Unveiled",
+      desc: " A mesmerizing landscape painting capturing the essence of untouched natural beauty",
       image:
-        "https://images.pexels.com/photos/3130810/pexels-photo-3130810.jpeg",
+        "/nature.jpg",
     },
     {
       id: 2,
-      title: "Minimal Single Product",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Sculpting Life",
+      desc: "A series of intricate sculptures that bring inanimate objects to life through skillful craftsmanship.",
       image:
-        "https://images.pexels.com/photos/2103127/pexels-photo-2103127.jpeg",
+        "/scuplture.jpg",
     },
     {
       id: 3,
-      title: "Strong Together Charity",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "The Essence of Portraitsy",
+      desc: "A collection of heartfelt portraiture showcasing the unique personalities of individuals.",
       image:
-        "https://images.pexels.com/photos/2916450/pexels-photo-2916450.jpeg",
+        "/potrait.jpg",
     }
+   
   ],
   websites: [
     {
       id: 1,
-      title: "Creative Portfolio",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Embracing Simplicity: The Minimalist Approach",
+      desc: "Exploring how minimalist design elements can enhance user experience and evoke a sense of elegance.?",
       image:
-        "https://images.pexels.com/photos/3130810/pexels-photo-3130810.jpeg",
+        "/simplicity.jpg",
     },
     {
       id: 2,
-      title: "Minimal Single Product",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Mobile Optimization: Designing for the Modern User",
+      desc: "Discussing the importance of responsive web design and its impact on user engagement",
       image:
-        "https://images.pexels.com/photos/2103127/pexels-photo-2103127.jpeg",
+        "/mobile.jpg",
     },
     {
       id: 3,
-      title: "Strong Together Charity",
-      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
+      title: "Interactive Interfaces: Engaging Users at Every Click",
+      desc: "Showcasing websites that incorporate interactive elements, such as scrolling animations and hover effects.",
       image:
-        "https://images.pexels.com/photos/2916450/pexels-photo-2916450.jpeg",
+        "/interaction.jpg",
     }
   ],
 };

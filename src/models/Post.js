@@ -21,11 +21,12 @@ const postSchema = new Schema(
       required: true,
     },
     username: {
-      type: mongooose.Types.ObjectId,
-      ref: "User",
+      type: String,
+      required: true,
     },
   },
   { timestamps: true }
 );
 
-export default mongoose.models.Post || mongoose.model("Post",postSchema);
+
+export default mongoose.models.Post || mongoose.model("Post", postSchema);

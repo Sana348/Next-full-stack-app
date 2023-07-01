@@ -14,38 +14,42 @@ const About = () => {
           className={styles.img}
         />
         <div className={styles.imgText}>
-          <h1 className={styles.imgTitle}>Digital Storytellers</h1>
+          <h1 className={styles.imgTitle}>WebWave</h1>
           <h2 className={styles.imgDesc}>
-            Handcrafting award winning digital experiences
+          Your Partner for Creative Excellence.
           </h2>
         </div>
       </div>
       <div className={styles.textContainer}>
         <div className={styles.item}>
-          <h1 className={styles.title}>Who Are We?</h1>
+          <h1 className={styles.title}>Who Are We our mission?</h1>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            quae dolor, optio voluptatibus magnam iure esse tempora beatae. A
-            suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
-            eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Ducimus quae dolor, optio voluptatibus magnam iure esse tempora
-            beatae, a suscipit eos. Animi quibusdam cum omnis officiis
+            Welcome to WebWave, a premier agency dedicated to delivering
+            exceptional services and creative solutions. With a passion for
+            innovation and a deep understanding of our clients needs, we strive
+            to exceed expectations and create meaningful experiences.
             <br />
             <br />
-            voluptatum quo ea eveniet? Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Ducimus quae dolor, optio voluptatibus magnam iure
-            esse tempora beatae, a suscipit eos. Animi quibusdam cum omnis
-            officiis voluptatum quo ea eveniet?
+            At WebWave, our mission is to empower businesses and
+            individuals by providing top-notch services that help them stand out
+            in todays competitive landscape. We believe in the power of
+            collaboration, creativity, and cutting-edge technology to drive
+            success. Through our expertise, we aim to make a positive impact on
+            our clients brands and establish long-lasting relationships built on
+            trust and excellence.
           </p>
         </div>
         <div className={styles.item}>
           <h1 className={styles.title}>What We Do?</h1>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            quae dolor, optio voluptatibus magnam iure esse tempora beatae, a
-            suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
-            eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. -
-            Creative Illustrations
+            At WebWave, we offer a comprehensive range of services
+            designed to meet the diverse needs of our clients. Whether its web
+            design and development, branding and identity, digital marketing, or
+            application development, we have the expertise to deliver results
+            that drive growth and maximize impact. Our tailored solutions are
+            backed by a deep understanding of industry trends and user behavior,
+            ensuring that every project we undertake is a step towards success.
+            - Creative Illustrations
             <br />
             <br /> - Dynamic Websites
             <br />
