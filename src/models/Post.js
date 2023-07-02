@@ -1,6 +1,4 @@
-import mongoose from "mongoose";
-
-const { Schema } = mongoose;
+import { Schema, model, models } from 'mongoose';
 
 const postSchema = new Schema(
   {
@@ -28,5 +26,6 @@ const postSchema = new Schema(
   { timestamps: true }
 );
 
+const Post = models.Post || model('Post', postSchema);
 
-export default mongoose.models.Post || mongoose.model("Post", postSchema);
+export default Post;
